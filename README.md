@@ -3,7 +3,7 @@
   <img align="left" alt="Abhi Gowda | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.facebook.com/abhi.gowda.magadi/">
-  <img align="left" alt="Abhi Gowda | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Abhi Gowda | Facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhi Gowda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
